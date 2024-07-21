@@ -16,6 +16,9 @@ REDISTRIBUTION: Distributing the source code of this project, and any source cod
       "loadstring(game:HttpGet("https://github.com/warprbx/NightForRoblox/raw/main/src/load.lua"))()" -- subject to change and is limited only to source files held by the copyright holder.
 }), and any configurations.
 
+This is the software, shown by a youtube video.
+https://www.youtube.com/watch?v=pNQlK1_Llks
+
 ## Terms and conditions:
 
 Redistribution and use of this project with or without modification, are permitted provided that the following conditions are met:
